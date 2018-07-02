@@ -110,3 +110,8 @@ This repository contains a apps list made for MacOS.
 * [Duet](http://www.duetdisplay.com/)
 * [iFunBox](http://www.i-funbox.com/)
 * [iMazing](http://imazing.com/)
+
+## Homebrew
+```
+brew install ansible bash-completion bash-git-prompt cntlm docker docker-compose docker-machine dos2unix gdbm gettext git htop  maven openshift-cli openssl telnet tree vim wget
+```
