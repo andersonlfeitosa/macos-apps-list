@@ -16,7 +16,7 @@ This repository contains a apps list made for MacOS.
 * [Dropbox](http://www.dropbox.com/) **(installed)**
 * [Flux](https://justgetflux.com/)
 * [Flycut](https://github.com/TermiT/Flycut) **(installed)**
-* [Go2Shell](http://zipzapmac.com/go2shell) **(installed)**
+* [Go2Shell](http://zipzapmac.com/go2shell)
 * [JiTouch](https://www.jitouch.com/)
 * [Locko](http://www.binarynights.com/)
 * [OpenEmu](http://openemu.org/)
