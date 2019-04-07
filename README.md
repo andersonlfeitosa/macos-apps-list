@@ -68,7 +68,7 @@ This repository contains a apps list made for MacOS.
 * [iTerm 2](http://iterm2.com/) **(installed)**
 * [JavaFX Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [JD-GUI](http://jd.benow.ca/) **(installed)**
-* [Kaleidoscope](http://www.kaleidoscopeapp.com/)
+* [Kaleidoscope](http://www.kaleidoscopeapp.com/) **(installed)**
 * [LiveReload](http://livereload.com/)
 * [MacDown](http://macdown.uranusjr.com/)
 * [Typora](https://typora.io/) **(installed)**
@@ -93,7 +93,7 @@ This repository contains a apps list made for MacOS.
 * [Adobe Illustrator CC](http://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop CC](http://www.adobe.com/products/photoshop.html)
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
-* [Monosnap](https://www.monosnap.com/)
+* [Monosnap](https://www.monosnap.com/) **(installed)**
 
 ## WindowManager
 * [Breeze](http://autumnapps.com/breeze/)
