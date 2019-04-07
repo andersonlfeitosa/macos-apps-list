@@ -70,8 +70,8 @@ This repository contains a apps list made for MacOS.
 * [JD-GUI](http://jd.benow.ca/) **(installed)**
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/)
 * [LiveReload](http://livereload.com/)
-* [MacDown](http://macdown.uranusjr.com/) **(installed)**
-* [Typora](https://typora.io/)
+* [MacDown](http://macdown.uranusjr.com/)
+* [Typora](https://typora.io/) **(installed)**
 * [Mou](http://25.io/mou/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * [Postman](https://www.getpostman.com/apps) **(installed)**
