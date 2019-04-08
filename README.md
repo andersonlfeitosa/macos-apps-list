@@ -115,5 +115,5 @@ This repository contains a apps list made for MacOS.
 ```
 brew install ansible bash-completion bash-git-prompt cntlm docker \ 
 docker-compose docker-machine dos2unix gdbm gettext git htop \
-maven openshift-cli openssl telnet tree vim wget
+maven openshift-cli openssl telnet tree vim wget h2
 ```
