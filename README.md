@@ -125,6 +125,6 @@ brew install --cask adobe-acrobat-reader dbeaver-community drawio \
 dropbox flycut google-chrome itsycal jd-gui microsoft-teams \
 postman spectacle sublime-text the-unarchiver transmission \
 typora virtualbox virtualbox-extension-pack visual-studio-code \
-vlc whatsapp xmind zoom zoomus \
+vlc whatsapp xmind zoom \
 jprofiler
 ```
