@@ -6,7 +6,7 @@ This repository contains a apps list made for MacOS.
 ## Utilities
 * [Adium](https://adium.im/)
 * [Alfred 3](http://www.alfredapp.com/)
-* [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) **(installed)**
+* [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) **(installed by Apple Store)**
 * [1Password](https://agilebits.com/onepassword)
 * [Bartender](http://www.macbartender.com/)
 * [Boom2](http://www.globaldelight.com/boom/)
@@ -57,6 +57,7 @@ This repository contains a apps list made for MacOS.
 * [Dbeaver](http://dbeaver.jkiss.org/) **(installed)**
 * [DBVisualizer](http://www.dbvis.com/)
 * [Developer Color Picker](http://download.panic.com/picker/)
+* [Drawio](http://draw.io) **(installed)**
 * [Eclipse](http://www.eclipse.org/) **(installed)**
 * [Fish](http://fishshell.com/)
 * [Firefox](https://www.mozilla.org/en-US/firefox) **(installed)**
@@ -93,7 +94,7 @@ This repository contains a apps list made for MacOS.
 * [Adobe Illustrator CC](http://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop CC](http://www.adobe.com/products/photoshop.html)
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
-* [Monosnap](https://www.monosnap.com/) **(installed)**
+* [Monosnap](https://www.monosnap.com/) **(installed by Apple Store)**
 
 ## WindowManager
 * [Breeze](http://autumnapps.com/breeze/)
@@ -113,8 +114,17 @@ This repository contains a apps list made for MacOS.
 
 ## Homebrew
 ```
-brew install ansible bash-completion bash-git-prompt cntlm docker \ 
+brew install bash-completion bash-git-prompt cntlm docker \ 
 docker-compose docker-machine dos2unix git htop \
 maven openshift-cli openssl telnet tree vim wget z \ 
-h2 gdbm gettext 
+ansible h2 gdbm gettext 
+```
+
+```
+brew install --cask adobe-acrobat-reader dbeaver-community drawio \
+dropbox flycut google-chrome itsycal jd-gui microsoft-teams \
+postman spectacle sublime-text the-unarchiver transmission \
+typora virtualbox virtualbox-extension-pack visual-studio-code \
+vlc whatsapp xmind zoom zoomus \
+jprofiler
 ```
