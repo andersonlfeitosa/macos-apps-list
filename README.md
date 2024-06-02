@@ -114,17 +114,17 @@ This repository contains a apps list made for MacOS.
 
 ## Homebrew
 ```
-brew install bash-completion bash-git-prompt cntlm docker \ 
+brew install bash-completion bash-git-prompt displayplacer cntlm \ 
 docker-compose docker-machine dos2unix git htop \
 maven openshift-cli openssl telnet tree vim wget z \ 
 ansible h2 gdbm gettext 
 ```
 
 ```
-brew install --cask adobe-acrobat-reader dbeaver-community drawio \
-dropbox flycut google-chrome itsycal jd-gui microsoft-teams \
+brew install --cask adobe-acrobat-reader dbeaver-community firefox \
+drawio docker dropbox flycut google-chrome itsycal jd-gui microsoft-teams \
 postman spectacle sublime-text the-unarchiver transmission \
 typora virtualbox virtualbox-extension-pack visual-studio-code \
-vlc whatsapp xmind zoom \
+vlc whatsapp xmind zoom obsidian \
 jprofiler
 ```
