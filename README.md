@@ -98,6 +98,7 @@ This repository contains a apps list made for MacOS.
 
 ## WindowManager
 * [Breeze](http://autumnapps.com/breeze/)
+* [Command Reopen](https://commandreopen.com/) - Makes Cmd+Tab restore minimized and closed windows with zero permissions
 * [Divvy](http://mizage.com/divvy/)
 * [EasyRes](http://easyresapp.com/)
 * [Moon](http://manytricks.com/moom/)
